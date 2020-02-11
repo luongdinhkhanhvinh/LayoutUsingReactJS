@@ -29,6 +29,12 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
+    ],
+    "plugins": [
+      "react-html-attrs"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-react-html-attrs": "^2.1.0"
   }
 }
